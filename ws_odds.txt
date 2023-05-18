@@ -1,0 +1,32 @@
+2023 world series championship odds
+TEAM	CURRENT ODDS
+Braves	500
+Astros	700
+Dodgers	700
+Rays	700
+Padres	1100
+Blue Jays	1100
+Mets	1300
+Yankees	1300
+Brewers	2000
+Twins	2000
+Phillies	2500
+Angels	3000
+Mariners	3000
+Rangers	3000
+Guardians	4000
+Orioles	5000
+Cardinals	5000
+Red Sox	6600
+Cubs	6600
+Pirates	8000
+Giants	8000
+Diamondbacks	10000
+Marlins	12500
+White Sox	15000
+Reds	50000
+Tigers	50000
+Royals	50000
+Rockies	100000
+Athletics	100000
+Nationals	100000
